@@ -398,7 +398,7 @@ footer {
 
 
 
-@media (max-width: 550px) {
+@media (max-width: 450px) {
     body {
         font-family: Arial, sans-serif;
         margin: 0;
