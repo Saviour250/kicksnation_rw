@@ -482,7 +482,7 @@ footer {
         border-radius: 4px;
         padding: 0.2em;
         text-align: center;
-        width: calc(25.333% - 2em);
+        width: calc(28.333% - 3em);
         font-size: 10px;
         letter-spacing: 0.5px;
     }
@@ -505,7 +505,7 @@ footer {
     .product-card a {
         display: inline-block;
         margin-top: 1px;
-        padding: 0.5em 1em;
+        padding: 0.1em 0.2em;
         background-color: #0b0b12;
         color: white;
         text-decoration: none;
