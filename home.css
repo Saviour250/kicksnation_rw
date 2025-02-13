@@ -479,10 +479,10 @@ footer {
     
     .product-card {
         border: 1px solid #ccc;
-        border-radius: 4px;
+        border-radius: 7px;
         padding: 0.2em;
         text-align: center;
-        width: calc(28.333% - 3em);
+        width: calc(48.333% - 7em);
         font-size: 10px;
         letter-spacing: 0.5px;
     }
